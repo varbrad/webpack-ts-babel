@@ -1,3 +1,4 @@
+import '@babel/polyfill'
 import arrow from './arrow'
 import entries from './entries'
 import myPromise from './promise'

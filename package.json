@@ -4,6 +4,7 @@
     "build:dev": "webpack --mode=development",
     "build:prod": "webpack --mode=production",
     "parcel": "parcel index.html",
+    "parcel:build": "parcel build index.html",
     "start": "webpack-dev-server --mode=development"
   },
   "devDependencies": {
